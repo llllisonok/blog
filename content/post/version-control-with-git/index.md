@@ -24,7 +24,7 @@ Collaboration: Git simplifies collaborative development, allowing multiple devel
 Backup and Recovery: Remote Git repositories serve as a reliable way to back up and recover your project in the event of data loss.
 
 
-## Basic Git commands to get started
+Basic Git commands to get started: 
 
 git init: Initializes a new Git repository.
 
