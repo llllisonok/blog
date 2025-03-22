@@ -1,6 +1,6 @@
 ---
-title: Version Control with Git: An Indispensable Tool for Developers
-date: 22.03.2025
+title: 📖 Version Control with Git: An Indispensable Tool for Developers
+date: 2025-03-22
 ---
 
 # Version Control with Git: An Indispensable Tool for Developers
