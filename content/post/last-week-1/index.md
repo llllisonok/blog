@@ -1,5 +1,10 @@
 ---
 title: 🌟 My previous week
+summary: Here are news for my previous week
+authors:
+  - admin
+tags:
+  - Study
 date: 2025-03-22
 ---
 
