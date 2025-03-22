@@ -24,9 +24,9 @@ In modern software development, version control is a key factor for success. Git
 ## Basic Git commands to get started:
 
 - git init: Initializes a new Git repository.
-- git add <file>: Adds a file to the index for subsequent commit.
+- git add 'file': Adds a file to the index for subsequent commit.
 - git commit -m "Description of changes": Commits the changes with an informative message.
-- git push origin <branch>: Sends local changes to the remote repository.
+- git push origin 'branch': Sends local changes to the remote repository.
 
 ## Conclusion
 
