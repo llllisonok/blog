@@ -1,12 +1,12 @@
 ---
 title: 📖 Version Control with Git: An Indispensable Tool for Developers
 summary: Git is a powerful and widely used distributed version control system that allows you to effectively track code changes, collaborate with colleagues, and maintain project integrity.
+date: 2025-03-22
 authors:
   - admin
 tags:
   - Git
   - Study
-date: 2025-03-22
 ---
 
 ## Version Control with Git: An Indispensable Tool for Developers
